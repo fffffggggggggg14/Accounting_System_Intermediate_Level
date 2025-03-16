@@ -67,8 +67,4 @@ This project demonstrates strong skills in:
 
 - User-friendly CLI design  
 
-GitHub Repository:[https://github.com/fffffggggggggg14/Accounting_System_Intermediate_Level]
-
-#CPA #AccountingTech #CPlusPlus #FinancialModeling #OOP #SoftwareDevelopment #AccountingStudents #FinTech
-
 Note: This system mirrors real-world accounting software workflows while maintaining academic alignment with intermediate accounting curricula.
